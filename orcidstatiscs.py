@@ -19,7 +19,7 @@ ax = plt.gca()
 ax.spines["right"].set_visible(False)
 ax.spines["top"].set_visible(False)
 
-# plt.show()
+plt.show()
 
 education = ["Total de Identificadores Ativos","Vinculados a Instituições de Ensino","Instituições de Ensino"]
 qtd2 = [6903403,1921502,519903]
@@ -38,7 +38,7 @@ ax = plt.gca()
 ax.spines["right"].set_visible(False)
 ax.spines["top"].set_visible(False)
 
-# plt.show()
+plt.show()
 
 employment = ["Total de Identificadores Ativos","Identificadores com Afiliação de Emprego","Organizações de Emprego"]
 qtd3 = [6903403,1857336,939040]
@@ -57,7 +57,7 @@ ax = plt.gca()
 ax.spines["right"].set_visible(False)
 ax.spines["top"].set_visible(False)
 
-# plt.show()
+plt.show()
 
 funding = ["Identificadores com Afiliação à Financiadoras","Organizações de Financiamento"]
 qtd4 = [190463,185701]
