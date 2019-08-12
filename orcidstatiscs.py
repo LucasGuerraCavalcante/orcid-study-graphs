@@ -2,6 +2,8 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Gráfico da quantidade de IDs ativos
+
 identificadores = ["Total de Identificadores Ativos","Vinculados a Identificadores Externos"]
 qtd = [6903403,2854313]
 
@@ -20,6 +22,8 @@ ax.spines["right"].set_visible(False)
 ax.spines["top"].set_visible(False)
 
 plt.show()
+
+# Gráfico da quantidade de Instituições de Ensino
 
 education = ["Total de Identificadores Ativos","Vinculados a Instituições de Ensino","Instituições de Ensino"]
 qtd2 = [6903403,1921502,519903]
@@ -40,6 +44,8 @@ ax.spines["top"].set_visible(False)
 
 plt.show()
 
+# Gráfico da quantidade de Instituições de Emprego
+
 employment = ["Total de Identificadores Ativos","Identificadores com Afiliação de Emprego","Organizações de Emprego"]
 qtd3 = [6903403,1857336,939040]
 
@@ -58,6 +64,8 @@ ax.spines["right"].set_visible(False)
 ax.spines["top"].set_visible(False)
 
 plt.show()
+
+# Gráfico da quantidade de Organizações de Financiamento
 
 funding = ["Identificadores com Afiliação à Financiadoras","Organizações de Financiamento"]
 qtd4 = [190463,185701]
