@@ -6,6 +6,10 @@ Some graphics that I made on python for a study about ORCiD/ Alguns gráficos qu
 
 The objective of this small paper is to discuss the importance of the ORCiD platform to the scientific community and try to encourage Brazilian researchers to use it. During the reading, the reader will be able to understand why does ORCiD exist, its importance, why does researchers need to use it and also will see some interesting statistics that measures the ORCiD impact. This document were made during my Intership at the Brazilian National Council for Scientific and Technological Development (CNPq).
 
+## Resumo
+
+O objetivo deste pequeno artigo é discutir a importância da plataforma ORCiD para a comunidade científica e tentar incentivar os pesquisadores brasileiros a usá-la. Durante a leitura, o leitor será capaz de entender por que o ORCiD existe, sua importância, por que os pesquisadores precisam usá-lo e também verá algumas estatísticas interessantes que medem o impacto da plataforma. Este documento foi elaborado durante meu estágio no CNPq.
+
 ## Ensaio sobre o ORCiD
 
 ## 1. A Importância dos Identificadores de Autores
