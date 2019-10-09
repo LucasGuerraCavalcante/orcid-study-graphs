@@ -2,9 +2,9 @@
 
 Some graphics that I made on python for a study about ORCiD/ Alguns gráficos que fiz em python para um estudo sobre o ORCiD
 
-Ensaio sobre o ORCiD
+## Ensaio sobre o ORCiD
 
-1. A Importância dos Identificadores de Autores
+## 1. A Importância dos Identificadores de Autores
 
 Os identificadores de autores são códigos alfanuméricos específicos, atribuídos para
 cada autor de literatura científica registrado em alguma plataforma. Tais identificadores
@@ -20,17 +20,17 @@ intransferíveis, o que torna as buscas extremamente práticas e precisas.
 Exemplos:
 
 Diferentes autores com nomes iguais
-◦ 1° - Maria Fernanda Alves Silva – Identificador: 0345-0345-5676-984Y
-◦ 2° - Maria Fernanda Alves Silva – Identificador: 4567-4567-1234-784X
-◦ 3° - Maria Fernanda Alves Silva – Identificador: 9876-4567-1435-879Z
-•
-Mesmo autor que por algum motivo mudou de nome
-◦ Nome de Solteiro:
-▪ Maria Fernanda Alves Silva – Identificador: 0345-0345-5676-984Y
-◦ Nome de Casado:
-▪ Maria Fernanda Alves Müller – Identificador: 0345-0345-5676-984Y
+ * 1° - Maria Fernanda Alves Silva – Identificador: 0345-0345-5676-984Y
+ * 2° - Maria Fernanda Alves Silva – Identificador: 4567-4567-1234-784X
+ * 3° - Maria Fernanda Alves Silva – Identificador: 9876-4567-1435-879Z
 
-2. Sobre o ORCiD
+Mesmo autor que por algum motivo mudou de nome
+  * Nome de Solteiro:
+    * Maria Fernanda Alves Silva – Identificador: 0345-0345-5676-984Y
+ * Nome de Casado:
+    * Maria Fernanda Alves Müller – Identificador: 0345-0345-5676-984Y
+
+## 2. Sobre o ORCiD
 
 O ORCiD (Open Researcher and Contributor ID) é uma plataforma online
 sável por, além fornecer tais identificadores, armazenar informações sobre os autores e seus
@@ -44,6 +44,7 @@ mento internacionais, como National Institutes of Health (NIH), Research Council
 ean Commission, Wellcome Trust, FCT, entre outras, também já adotam, ou estão em
 so de adoção, o identificador ORCiD do pesquisador durante a análise de concessão de
 s à pesquisa.
+
 Além disso, o ORCiD, por ser uma organização sem fins lucrativos, possui uma vasta
 idade de mais 1050 organizações parceiras espalhadas por mais de 40 países, que
 ecem a importância, colaboram e utilizam de alguma forma a plataforma. No Brasil, o
@@ -55,13 +56,13 @@ idge University, Clarivate Analytics, Data2Paper, Edanz, Harvard University, IEE
 d University, Yale University, entre outras. Além disso, o ORCiD é uma plataforma Open
  e possui todo o código fonte disponível no GitHub.
  
-Membros Parceiros do ORCiD
+## Membros Parceiros do ORCiD
 
 ![grafico1](https://github.com/LucasGuerraCavalcante/orcid-study-graphs/blob/master/img/orcidmembrosG.png)
 
  orcid.org/members (2019)
  
-3. Estatísticas Interessantes Sobre o ORCiD
+## 3. Estatísticas Interessantes Sobre o ORCiD
 
 ![grafico2](https://github.com/LucasGuerraCavalcante/orcid-study-graphs/blob/master/img/orcididsativos.png)
 
@@ -96,7 +97,7 @@ O ORCiD possui 6903404 identificadores ativos, sendo 190463 vinculados a alguma
 Observação: Os dados mostrados acima dependem muitas vezes de informações
 tadas pelos usuários, o que torna pode tornar esses números não condizentes com a realidade.
 
-4. Cadastrando no ORCiD e Garantindo um Identificador
+## 4. Cadastrando no ORCiD e Garantindo um Identificador
 
 Cadastrar no ORCiD é um processo rápido, fácil e intuitivo. A plataforma não exige muitos
 do usuário pois, muitas vezes, o próprio sistema interno do ORCiD é capaz de distinguir os
@@ -104,15 +105,17 @@ os e evitar duplicações.
 Para garantir uma conta junto com um Identificador basta apenas acessar:
 orcid.org/register.
 
- Saiba Mais ORCiD. Disponível em: <https://orcid.org/content/initiative>.
- O que é o ORCiD? Disponível em: <https://orcid.org/about/what-is-orcid/mission>.
- O que é o ORCiD? (USP). Disponível em:
+## Referências: 
+
+* Saiba Mais ORCiD. Disponível em: <https://orcid.org/content/initiative>.
+* O que é o ORCiD? Disponível em: <https://orcid.org/about/what-is-orcid/mission>.
+* O que é o ORCiD? (USP). Disponível em:
 <http://www.sibi.usp.br/apoio-pesquisador/identificacao-pesquisadores/orcid-2/orcid-
 caracteristicas>
- Ten things you need to know about ORCiD right now. Disponível em:
+* Ten things you need to know about ORCiD right now. Disponível em:
 <http://blog.impactstory.org/ten-things-you-need-to-know-about-orcid-right-now>.
- Sobre Identificação de Autores. Disponível em: <http://libguides.fe.up.pt/publicacao-
+* Sobre Identificação de Autores. Disponível em: <http://libguides.fe.up.pt/publicacao-
 cientifica/idautores>.
- Repositório ORCiD no GitHub. Disponível em: <https://github.com/ORCID>.
- Wikipedia ORCiD. Disponível em: <https://pt.wikipedia.org/wiki/ORCID>.
+* Repositório ORCiD no GitHub. Disponível em: <https://github.com/ORCID>.
+* Wikipedia ORCiD. Disponível em: <https://pt.wikipedia.org/wiki/ORCID>.
 
