@@ -2,6 +2,10 @@
 
 Some graphics that I made on python for a study about ORCiD/ Alguns gráficos que fiz em python para um estudo sobre o ORCiD
 
+## Abstract
+
+The objective of this small paper is to discuss the importance of the ORCiD platform to the scientific community and try to encourage Brazilian researchers to use it. During the reading, the reader will be able to understand why does ORCiD exist, its importance, why does researchers need to use it and also will see some interesting statistics that measures the ORCiD impact. This document were made during my Intership at the Brazilian National Council for Scientific and Technological Development (CNPq).
+
 ## Ensaio sobre o ORCiD
 
 ## 1. A Importância dos Identificadores de Autores
@@ -11,7 +15,7 @@ cada autor de literatura científica registrado em alguma plataforma. Tais ident
 impedem que os autores sejam confundidos com outras pessoas de nome igual ou
 semelhante. Além disso, esses códigos também facilitam a busca pelos trabalhos desses
 autores, já que, o mesmo autor, pode ter o próprio nome alterado durante o tempo, ou então,
-escrito e abreviado de diversas maneiras diferentes, somado a isso, o mesmo nome também
+escrito e abreviado de diversas maneiras diferentes, somado a isso, também existe a possibilidade de um mesmo nome 
 ser escrito em ordem e em alfabetos diferentes dependendo da cultura. Tudo isso, acaba
 tornando as buscas por nomes algo pouco eficaz em relação a busca por identificadores, já
 que, diferentemente dos nomes, os identificadores são únicos, padronizados, universais e
